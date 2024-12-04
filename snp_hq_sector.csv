@@ -1,0 +1,504 @@
+,Instrument,TRBC Economic Sector Name,ESG Combined Score,Region of Headquarters
+0,POOL.OQ,Consumer Cyclicals,50.6409939082342,Americas
+1,CHRW.OQ,Industrials,41.1658951220176,Americas
+2,AJG.N,Financials,50.6188701540809,Americas
+3,CNP.N,Utilities,32.4473630387654,Americas
+4,AMCR.N,Basic Materials,68.2990633019154,Europe
+5,WM.N,Industrials,84.5833817688257,Americas
+6,BA.N,Industrials,39.9729026174541,Americas
+7,FOX.OQ,Consumer Cyclicals,34.2877749375499,Americas
+8,WY.N,Real Estate,64.8758279437174,Americas
+9,MCD.N,Consumer Cyclicals,33.7661053480158,Americas
+10,HD.N,Consumer Cyclicals,33.9136414637642,Americas
+11,SPG.N,Real Estate,65.1269762293238,Americas
+12,HBAN.OQ,Financials,74.3575934649371,Americas
+13,QRVO.OQ,Technology,62.183883019368,Americas
+14,LVS.N,Consumer Cyclicals,70.108374626292,Americas
+15,CTRA.N,Energy,38.5997506155476,Americas
+16,ON.OQ,Technology,36.9037540422077,Americas
+17,AIG.N,Financials,48.1163362005173,Americas
+18,AIZ.N,Financials,65.4367985451797,Americas
+19,CARR.N,Industrials,65.5671259841539,Americas
+20,EVRG.OQ,Utilities,69.5082580591961,Americas
+21,SMCI.OQ,Technology,23.4811200337509,Americas
+22,COST.OQ,Consumer Cyclicals,37.7359535861557,Americas
+23,MCO.N,Industrials,67.4091836491749,Americas
+24,DIS.N,Consumer Cyclicals,28.8149399614344,Americas
+25,LULU.OQ,Consumer Cyclicals,30.7659586246649,Americas
+26,PAYX.OQ,Industrials,52.9721611733928,Americas
+27,AMD.OQ,Technology,67.7932705873789,Americas
+28,REG.OQ,Real Estate,75.378822430073,Americas
+29,DHI.N,Consumer Cyclicals,46.1596905695141,Americas
+30,TRV.N,Financials,67.5611103896308,Americas
+31,MOS.N,Basic Materials,70.3776472162107,Americas
+32,BWA.N,Consumer Cyclicals,63.6373134980545,Americas
+33,WDC.OQ,Technology,49.4645087887076,Americas
+34,VTR.N,Real Estate,77.6461181242652,Americas
+35,IVZ.N,Financials,52.4009207859329,Americas
+36,ZBRA.OQ,Technology,59.2387526934344,Americas
+37,AMAT.OQ,Technology,86.0952564954436,Americas
+38,STX.OQ,Technology,32.5158050022422,Asia
+39,FDS.N,Industrials,67.8545558194359,Americas
+40,KVUE.N,Consumer Non-Cyclicals,33.8775911039779,Americas
+41,SYK.N,Healthcare,54.0688294388223,Americas
+42,DELL.N,Technology,45.8473266241355,Americas
+43,VRSN.OQ,Technology,57.1319957390272,Americas
+44,TECH.OQ,Healthcare,64.199288582781,Americas
+45,NVR.N,Consumer Cyclicals,33.9805080982725,Americas
+46,JBL.N,Technology,65.1412321504399,Americas
+47,LOW.N,Consumer Cyclicals,41.9121342619497,Americas
+48,BSX.N,Healthcare,65.3284492091916,Americas
+49,SYY.N,Consumer Non-Cyclicals,48.2916101366286,Americas
+50,FCX.N,Basic Materials,78.1826971237997,Americas
+51,MAS.N,Consumer Cyclicals,71.0549697621575,Americas
+52,BEN.N,Financials,39.1745369482348,Americas
+53,META.OQ,Technology,34.1386510244461,Americas
+54,PAYC.N,Technology,31.3031894246075,Americas
+55,EXPE.OQ,Consumer Cyclicals,44.8544237156309,Americas
+56,AMTM.N,Technology,,Americas
+57,RJF.N,Financials,56.9982830954613,Americas
+58,CL.N,Consumer Non-Cyclicals,64.7058709714633,Americas
+59,VICI.N,Real Estate,72.5100704364015,Americas
+60,CE.N,Basic Materials,70.8616136593556,Americas
+61,UNH.N,Healthcare,39.921079582768,Americas
+62,ARE.N,Real Estate,71.9160155450514,Americas
+63,GEN.OQ,Technology,76.4056497257585,Americas
+64,LLY.N,Healthcare,45.9927435750903,Americas
+65,DAY.N,Technology,65.2352536601754,Americas
+66,GRMN.N,Technology,47.2534244570096,Europe
+67,PODD.OQ,Healthcare,55.0215983316969,Americas
+68,ISRG.OQ,Healthcare,54.0771562191518,Americas
+69,AVB.N,Real Estate,70.0783663241197,Americas
+70,TPR.N,Consumer Cyclicals,61.9824625299745,Americas
+71,CBRE.N,Real Estate,76.7430721130017,Americas
+72,CINF.OQ,Financials,54.2660108611665,Americas
+73,WMB.N,Energy,53.0469775079446,Americas
+74,EA.OQ,Technology,59.2893453862249,Americas
+75,TMUS.OQ,Technology,32.7681831597613,Americas
+76,CB.N,Financials,39.088024231944,Europe
+77,TXN.OQ,Technology,59.4176922583626,Americas
+78,MDLZ.OQ,Consumer Non-Cyclicals,46.4996967536927,Americas
+79,BRO.N,Financials,33.0305597558839,Americas
+80,BALL.N,Basic Materials,72.885551859304,Americas
+81,PFG.OQ,Financials,54.4138295220536,Americas
+82,KEYS.N,Technology,70.3532356155847,Americas
+83,PCG.N,Utilities,41.3584867134842,Americas
+84,RL.N,Consumer Cyclicals,77.1660417636085,Americas
+85,JPM.N,Financials,39.2414698296689,Americas
+86,TTWO.OQ,Technology,45.1006311055457,Americas
+87,CDW.OQ,Technology,50.6108697211116,Americas
+88,RMD.N,Healthcare,67.6743268022689,Americas
+89,LNT.OQ,Utilities,71.6013302516769,Americas
+90,COO.OQ,Healthcare,53.6087977988991,Americas
+91,CMG.N,Consumer Cyclicals,32.9987974592837,Americas
+92,PCAR.OQ,Industrials,46.0033218150855,Americas
+93,GNRC.N,Industrials,25.6054955704409,Americas
+94,CHTR.OQ,Technology,29.8562896151212,Americas
+95,PWR.N,Industrials,74.3288131229249,Americas
+96,CCL.N,Consumer Cyclicals,47.4031598883041,Americas
+97,PM.N,Consumer Non-Cyclicals,47.3597895844956,Americas
+98,SNA.N,Industrials,46.7516931222211,Americas
+99,UAL.OQ,Industrials,35.4785788088368,Americas
+100,ESS.N,Real Estate,69.5976327430567,Americas
+101,KHC.OQ,Consumer Non-Cyclicals,39.5807549720809,Americas
+102,BLDR.N,Consumer Cyclicals,42.9048084010759,Americas
+103,JBHT.OQ,Industrials,76.7517137506831,Americas
+104,CMI.N,Consumer Cyclicals,40.9110546912952,Americas
+105,PNR.N,Industrials,61.1383786853954,Europe
+106,CRL.N,Healthcare,41.5173952209998,Americas
+107,DPZ.N,Consumer Cyclicals,36.0940127745707,Americas
+108,DECK.N,Consumer Cyclicals,61.0518366441612,Americas
+109,HPQ.N,Technology,51.7604659106741,Americas
+110,ROP.OQ,Technology,56.5611417600355,Americas
+111,LW.N,Consumer Non-Cyclicals,35.9484544585286,Americas
+112,TGT.N,Consumer Cyclicals,43.0711005896433,Americas
+113,NTAP.OQ,Technology,64.508956995419,Americas
+114,OXY.N,Energy,47.2550286393092,Americas
+115,IR.N,Industrials,52.9275569373805,Americas
+116,TER.OQ,Technology,58.0003567334022,Americas
+117,WAB.N,Industrials,50.8161825071971,Americas
+118,NOW.N,Technology,60.2511604018249,Americas
+119,EXC.OQ,Utilities,49.5557234589657,Americas
+120,BR.N,Industrials,66.6267220897847,Americas
+121,EMN.N,Basic Materials,77.6780252897447,Americas
+122,AZO.N,Consumer Cyclicals,61.8443466961631,Americas
+123,TEL.N,Technology,69.2113487483444,Europe
+124,FRT.N,Real Estate,84.08861490996,Americas
+125,DUK.N,Utilities,58.0057482607722,Americas
+126,KMI.N,Energy,48.392588739287,Americas
+127,DVN.N,Energy,52.9563220037455,Americas
+128,RCL.N,Consumer Cyclicals,69.3707165297537,Americas
+129,VTRS.OQ,Healthcare,39.1258258671336,Americas
+130,CAH.N,Healthcare,60.2176666192197,Americas
+131,MKC.N,Consumer Non-Cyclicals,79.7862251014226,Americas
+132,IEX.N,Industrials,55.9258512915933,Americas
+133,VLO.N,Energy,45.0988520305469,Americas
+134,EXPD.N,Industrials,60.1869108698854,Americas
+135,LH.N,Healthcare,70.5933802443373,Americas
+136,SW.N,Basic Materials,72.1865837822218,Europe
+137,DRI.N,Consumer Cyclicals,51.047964706423,Americas
+138,MAA.N,Real Estate,61.9024114781904,Americas
+139,JNJ.N,Healthcare,42.7700090854983,Americas
+140,COR.N,Healthcare,49.9067778512774,Americas
+141,SHW.N,Basic Materials,47.5362042966334,Americas
+142,GD.N,Industrials,66.7100921115666,Americas
+143,SBAC.OQ,Real Estate,65.3554608022506,Americas
+144,MPWR.OQ,Technology,41.4775667632671,Americas
+145,COP.N,Energy,37.146672048611,Americas
+146,ORCL.N,Technology,45.775414977375,Americas
+147,AMP.N,Financials,60.7107434689984,Americas
+148,NXPI.OQ,Technology,62.5242250307657,Europe
+149,CPRT.OQ,Technology,59.9189508768188,Americas
+150,TXT.N,Industrials,43.2068875427207,Americas
+151,T.N,Technology,41.4585356923577,Americas
+152,MTCH.OQ,Technology,26.0457161540551,Americas
+153,NDAQ.OQ,Financials,60.1946951783898,Americas
+154,FFIV.OQ,Technology,68.2180770677687,Americas
+155,LEN.N,Consumer Cyclicals,37.9575777292071,Americas
+156,CDNS.OQ,Technology,73.9903209933214,Americas
+157,NVDA.OQ,Technology,44.2477011331185,Americas
+158,WELL.N,Real Estate,73.5762181551158,Americas
+159,PLD.N,Real Estate,74.1402214198862,Americas
+160,ROST.OQ,Consumer Cyclicals,59.2037151463804,Americas
+161,MRK.N,Healthcare,60.959622712219,Americas
+162,WEC.N,Utilities,59.7281219110597,Americas
+163,MSCI.N,Industrials,65.623556703352,Americas
+164,TMO.N,Healthcare,79.4133916594654,Americas
+165,F.N,Consumer Cyclicals,36.4566432975973,Americas
+166,GEHC.OQ,Healthcare,39.3813262043282,Americas
+167,LYB.N,Basic Materials,74.7194779793807,Europe
+168,IBM.N,Technology,43.3224517940977,Americas
+169,IQV.N,Healthcare,57.4275887479326,Americas
+170,VRTX.OQ,Healthcare,60.5339379321602,Americas
+171,DXCM.OQ,Healthcare,37.9421974010991,Americas
+172,PEP.OQ,Consumer Non-Cyclicals,44.611766776436,Americas
+173,AOS.N,Industrials,53.9315698532332,Americas
+174,BLK.N,Financials,43.1079840022705,Americas
+175,HII.N,Industrials,39.0669102082846,Americas
+176,CVS.N,Healthcare,46.7246725419987,Americas
+177,PH.N,Industrials,50.8073201521035,Americas
+178,NSC.N,Industrials,34.0185442111788,Americas
+179,MSFT.OQ,Technology,46.2023124398205,Americas
+180,HWM.N,Industrials,72.0609814123495,Americas
+181,BAX.N,Healthcare,45.0548639207362,Americas
+182,HUM.N,Healthcare,46.378400828861,Americas
+183,AXON.OQ,Industrials,36.4013989373452,Americas
+184,ZBH.N,Healthcare,64.5281560221276,Americas
+185,TDY.N,Technology,41.4613862573921,Americas
+186,GILD.OQ,Healthcare,57.1742901180326,Americas
+187,EPAM.N,Technology,54.6838089406712,Americas
+188,NOC.N,Industrials,70.2497037023048,Americas
+189,PNW.N,Utilities,68.3427033855974,Americas
+190,BFb.N,Consumer Non-Cyclicals,57.9350145260362,Americas
+191,DE.N,Industrials,51.0048315538316,Americas
+192,HSY.N,Consumer Non-Cyclicals,48.0915684394769,Americas
+193,GL.N,Financials,28.1294904437941,Americas
+194,SLB.N,Energy,46.9917544667959,Americas
+195,AWK.N,Utilities,64.737648890231,Americas
+196,PKG.N,Basic Materials,66.01651845009,Americas
+197,CPAY.N,Industrials,49.3365357368769,Americas
+198,ADI.OQ,Technology,69.1744565771304,Americas
+199,MMC.N,Financials,65.1455578890028,Americas
+200,IT.N,Technology,75.338541538662,Americas
+201,ECL.N,Basic Materials,76.9057616991937,Americas
+202,BXP.N,Real Estate,72.4445092122171,Americas
+203,GE.N,Industrials,58.9811270138981,Americas
+204,ED.N,Utilities,66.4773869457589,Americas
+205,ALLE.N,Technology,54.4717563527628,Europe
+206,OTIS.N,Industrials,63.2143667559548,Americas
+207,WFC.N,Financials,38.763192178181,Americas
+208,CTVA.N,Basic Materials,37.8478125622796,Americas
+209,FTV.N,Industrials,66.6678333484984,Americas
+210,AEE.N,Utilities,44.0363424643926,Americas
+211,PRU.N,Financials,42.9073519587594,Americas
+212,DLTR.OQ,Consumer Cyclicals,34.4354235161686,Americas
+213,CF.N,Basic Materials,48.5802878407864,Americas
+214,NEE.N,Utilities,39.6365477822981,Americas
+215,FMC.N,Basic Materials,46.4846127436458,Americas
+216,KLAC.OQ,Technology,55.4234435565615,Americas
+217,AME.N,Industrials,58.3558548822966,Americas
+218,NUE.N,Basic Materials,53.8391428677954,Americas
+219,D.N,Utilities,81.3555389642178,Americas
+220,SJM.N,Consumer Non-Cyclicals,62.5309920638149,Americas
+221,EMR.N,Industrials,47.9976333736946,Americas
+222,DVA.N,Healthcare,58.4098675937014,Americas
+223,CMS.N,Utilities,56.9632351676324,Americas
+224,HPE.N,Technology,53.5517209600117,Americas
+225,BDX.N,Healthcare,58.1947994126933,Americas
+226,MGM.N,Consumer Cyclicals,45.1546889740568,Americas
+227,HUBB.N,Industrials,71.919136820876,Americas
+228,ALGN.OQ,Healthcare,47.9162316333108,Americas
+229,SRE.N,Utilities,70.0051717581469,Americas
+230,REGN.OQ,Healthcare,60.4203465353292,Americas
+231,EFX.N,Industrials,32.5140433171063,Americas
+232,USB.N,Financials,34.4977677813871,Americas
+233,CSGP.OQ,Technology,60.505447464326,Americas
+234,HCA.N,Healthcare,54.1744962356669,Americas
+235,AVGO.OQ,Technology,49.7652568123759,Americas
+236,DHR.N,Healthcare,55.1672353071234,Americas
+237,NWSA.OQ,Consumer Cyclicals,38.9981783118379,Americas
+238,ERIE.OQ,Financials,43.0716465318322,Americas
+239,RTX.N,Industrials,39.7512878216223,Americas
+240,AAPL.OQ,Technology,40.3421207171522,Americas
+241,CME.OQ,Financials,59.6959122786667,Americas
+242,ADM.N,Consumer Non-Cyclicals,39.2226627008439,Americas
+243,APD.N,Basic Materials,77.0400733977641,Americas
+244,FANG.OQ,Energy,44.1551977829716,Americas
+245,WRB.N,Financials,50.1210798297277,Americas
+246,AXP.N,Financials,43.1070218932014,Americas
+247,CLX.N,Consumer Non-Cyclicals,63.6344528204329,Americas
+248,DOV.N,Industrials,66.002683155908,Americas
+249,FSLR.OQ,Energy,52.6087706919622,Americas
+250,MTB.N,Financials,80.246633430643,Americas
+251,FDX.N,Industrials,48.4297126965983,Americas
+252,TROW.OQ,Financials,59.6550342776923,Americas
+253,JKHY.OQ,Technology,56.3196545950351,Americas
+254,O.N,Real Estate,79.3105555098061,Americas
+255,MLM.N,Basic Materials,42.0091565712149,Americas
+256,RVTY.N,Healthcare,72.4744027086077,Americas
+257,L.N,Financials,38.449563607005,Americas
+258,QCOM.OQ,Technology,52.9615734443279,Americas
+259,IPG.N,Consumer Cyclicals,66.1910857223065,Americas
+260,PHM.N,Consumer Cyclicals,35.9683818648411,Americas
+261,ANSS.OQ,Technology,56.5106692499429,Americas
+262,ULTA.OQ,Consumer Cyclicals,45.9049486320558,Americas
+263,KO.N,Consumer Non-Cyclicals,44.7485079613078,Americas
+264,CSCO.OQ,Technology,53.6971819786307,Americas
+265,WTW.OQ,Financials,64.5751378925207,Europe
+266,ANET.N,Technology,56.7310092812366,Americas
+267,ES.N,Utilities,55.2213983735794,Americas
+268,CTAS.OQ,Industrials,62.119930189866,Americas
+269,GPN.N,Industrials,27.7084377129604,Americas
+270,RSG.N,Industrials,80.3496539503101,Americas
+271,LIN.OQ,Basic Materials,80.4388078600927,Europe
+272,MCK.N,Healthcare,40.2266397898647,Americas
+273,HLT.N,Consumer Cyclicals,47.8295466074118,Americas
+274,NFLX.OQ,Technology,21.5022696128341,Americas
+275,FI.N,Industrials,52.8975063323321,Americas
+276,RF.N,Financials,77.600585347811,Americas
+277,WMT.N,Consumer Non-Cyclicals,41.2404554331168,Americas
+278,AMGN.OQ,Healthcare,42.7245370358465,Americas
+279,KIM.N,Real Estate,82.3927956261804,Americas
+280,DG.N,Consumer Cyclicals,25.8542315592478,Americas
+281,EQR.N,Real Estate,64.0017138560903,Americas
+282,URI.N,Industrials,78.0544637480547,Americas
+283,TDG.N,Industrials,44.8758853130868,Americas
+284,CNC.N,Healthcare,54.6020951698935,Americas
+285,NKE.N,Consumer Cyclicals,39.6874090433551,Americas
+286,AES.N,Utilities,74.7232972981513,Americas
+287,ELV.N,Healthcare,80.8320651616845,Americas
+288,GWW.N,Industrials,75.8952309362852,Americas
+289,K.N,Consumer Non-Cyclicals,53.2739255809124,Americas
+290,GOOGL.OQ,Technology,40.856670522788,Americas
+291,GM.N,Consumer Cyclicals,40.5213551584838,Americas
+292,CCI.N,Real Estate,68.0451969864847,Americas
+293,COF.N,Financials,45.4418180055889,Americas
+294,C.N,Financials,44.5985343936732,Americas
+295,ODFL.OQ,Industrials,34.7312126830171,Americas
+296,A.N,Healthcare,81.7321003462614,Americas
+297,MOH.N,Healthcare,51.0650290133577,Americas
+298,GS.N,Financials,43.7924615502786,Americas
+299,MET.N,Financials,51.1708763826171,Americas
+300,WYNN.OQ,Consumer Cyclicals,53.6912313007646,Americas
+301,PSA.N,Real Estate,73.397432960744,Americas
+302,CPT.N,Real Estate,59.7544388484451,Americas
+303,GDDY.N,Technology,53.2487851923746,Americas
+304,MRNA.OQ,Healthcare,53.9854481875085,Americas
+305,BK.N,Financials,46.9891716294884,Americas
+306,FAST.OQ,Industrials,63.275619767238,Americas
+307,LDOS.N,Technology,77.9784241202784,Americas
+308,ORLY.OQ,Consumer Cyclicals,42.0664196995249,Americas
+309,CSX.OQ,Industrials,40.7985628738124,Americas
+310,CFG.N,Financials,60.2847718211138,Americas
+311,NI.N,Utilities,62.8128018620391,Americas
+312,MO.N,Consumer Non-Cyclicals,65.5197756311811,Americas
+313,DD.N,Basic Materials,38.9153164976566,Americas
+314,AEP.OQ,Utilities,76.3456766566766,Americas
+315,HOLX.OQ,Healthcare,58.4737217455585,Americas
+316,BX.N,Financials,23.9355976709702,Americas
+317,BBY.N,Consumer Cyclicals,44.3461268454847,Americas
+318,LHX.N,Industrials,66.7629998290526,Americas
+319,APA.OQ,Energy,59.9417381116091,Americas
+320,IFF.N,Consumer Non-Cyclicals,58.9956737167978,Americas
+321,CEG.OQ,Utilities,59.1027732176878,Americas
+322,STT.N,Financials,54.7872322095166,Americas
+323,JCI.N,Industrials,51.2100346517092,Europe
+324,FE.N,Utilities,40.8612586966715,Americas
+325,PNC.N,Financials,56.4573540460962,Americas
+326,VZ.N,Technology,38.1906741096717,Americas
+327,NEM.N,Basic Materials,81.5659433407458,Americas
+328,ROL.N,Industrials,26.0155369140393,Americas
+329,KEY.N,Financials,39.2091699302388,Americas
+330,GIS.N,Consumer Non-Cyclicals,46.1131591420528,Americas
+331,CMCSA.OQ,Technology,46.3172730504061,Americas
+332,VLTO.N,Industrials,71.0789731452619,Americas
+333,PFE.N,Healthcare,41.0619285660353,Americas
+334,EIX.N,Utilities,45.6948684067022,Americas
+335,NWS.OQ,Consumer Cyclicals,38.9981783118379,Americas
+336,MU.OQ,Technology,52.0917556629379,Americas
+337,UPS.N,Industrials,31.6857011964409,Americas
+338,SOLV.N,Healthcare,,Americas
+339,TYL.N,Technology,63.661418777339,Americas
+340,UNP.N,Industrials,49.4325920154544,Americas
+341,BAC.N,Financials,45.2477524435219,Americas
+342,KMX.N,Consumer Cyclicals,47.4474486975706,Americas
+343,PARA.OQ,Consumer Cyclicals,39.8694321046808,Americas
+344,IP.N,Basic Materials,36.306076644731,Americas
+345,MDT.N,Healthcare,40.3834118607707,Europe
+346,MMM.N,Consumer Non-Cyclicals,49.3736093561046,Americas
+347,CZR.OQ,Consumer Cyclicals,46.8104168216958,Americas
+348,UBER.N,Technology,40.4212347380604,Americas
+349,INTU.OQ,Technology,75.5652102327116,Americas
+350,OKE.N,Energy,71.8006300761101,Americas
+351,ADP.OQ,Technology,68.2401772353154,Americas
+352,EQIX.OQ,Real Estate,47.0655896811147,Americas
+353,CHD.N,Consumer Non-Cyclicals,71.7191286879887,Americas
+354,MTD.N,Technology,50.5233001449806,Americas
+355,KDP.OQ,Consumer Non-Cyclicals,67.3409140521825,Americas
+356,EBAY.OQ,Technology,38.6128252348863,Americas
+357,PEG.N,Utilities,58.1211631068056,Americas
+358,BIIB.OQ,Healthcare,44.1291003523339,Americas
+359,CTSH.OQ,Technology,55.5432621493077,Americas
+360,ALB.N,Basic Materials,72.3627013731857,Americas
+361,TRGP.N,Energy,59.2321164173055,Americas
+362,NCLH.N,Consumer Cyclicals,74.583523109687,Americas
+363,PLTR.OQ,Technology,20.4043450015964,Americas
+364,UDR.N,Real Estate,69.1641711368715,Americas
+365,DGX.N,Healthcare,68.2087717005397,Americas
+366,CBOE.Z,Financials,66.9383233929479,Americas
+367,HIG.N,Financials,79.1984678639701,Americas
+368,ACGL.OQ,Financials,59.0170090881364,Americas
+369,NDSN.OQ,Industrials,66.7677127921382,Americas
+370,VRSK.OQ,Technology,57.9870936292124,Americas
+371,GEV.N,Utilities,,Americas
+372,AMT.N,Real Estate,83.6004821274075,Americas
+373,PYPL.OQ,Industrials,44.8404835546962,Americas
+374,CAG.N,Consumer Non-Cyclicals,49.0939328222721,Americas
+375,UHS.N,Healthcare,45.8714534292699,Americas
+376,TFX.N,Healthcare,57.7646183221661,Americas
+377,SYF.N,Financials,55.8256956511434,Americas
+378,WAT.N,Healthcare,80.8857236640862,Americas
+379,INCY.OQ,Healthcare,56.2016965398394,Americas
+380,LRCX.OQ,Technology,71.2151889584552,Americas
+381,IDXX.OQ,Healthcare,71.3489312349961,Americas
+382,PPG.N,Basic Materials,76.1683136818578,Americas
+383,LKQ.OQ,Consumer Cyclicals,49.8444114639504,Americas
+384,BG.N,Consumer Non-Cyclicals,73.0286113861114,Americas
+385,HES.N,Energy,52.6100553572076,Americas
+386,EOG.N,Energy,51.1662251726053,Americas
+387,MAR.OQ,Consumer Cyclicals,40.9531365766675,Americas
+388,TJX.N,Consumer Cyclicals,48.8326507477367,Americas
+389,MNST.OQ,Consumer Non-Cyclicals,40.199917088699,Americas
+390,VMC.N,Basic Materials,39.1269287894092,Americas
+391,EW.N,Healthcare,41.6573497038955,Americas
+392,ALL.N,Financials,56.1632443983971,Americas
+393,BMY.N,Healthcare,59.6661909848373,Americas
+394,VST.N,Utilities,62.3230930466642,Americas
+395,APH.N,Technology,73.5709548117371,Americas
+396,HON.OQ,Consumer Non-Cyclicals,55.6452278292357,Americas
+397,GPC.N,Consumer Cyclicals,52.9817946163655,Americas
+398,MHK.N,Consumer Cyclicals,63.7318506209043,Americas
+399,MCHP.OQ,Technology,63.6903168731747,Americas
+400,CAT.N,Industrials,51.7207702497895,Americas
+401,PG.N,Consumer Non-Cyclicals,34.9018761301041,Americas
+402,ZTS.N,Healthcare,70.1731235528575,Americas
+403,STE.N,Healthcare,54.5165710365604,Europe
+404,TPL.N,Energy,43.7431546750706,Americas
+405,BKR.OQ,Energy,81.6696160155351,Americas
+406,AFL.N,Financials,49.0799895341542,Americas
+407,PTC.OQ,Technology,63.5450111324537,Americas
+408,FITB.OQ,Financials,67.8860989825334,Americas
+409,MSI.N,Technology,76.7221728672142,Americas
+410,XEL.OQ,Utilities,48.637874741683,Americas
+411,HSIC.OQ,Healthcare,68.5227723111869,Americas
+412,ITW.N,Consumer Non-Cyclicals,63.3240013389251,Americas
+413,WST.N,Healthcare,80.0118416400125,Americas
+414,DFS.N,Financials,30.0312336237536,Americas
+415,APTV.N,Consumer Cyclicals,62.0118705638786,Europe
+416,MPC.N,Energy,43.8395871255607,Americas
+417,PGR.N,Financials,58.3811621668221,Americas
+418,ICE.N,Financials,54.1891102397679,Americas
+419,KMB.N,Consumer Non-Cyclicals,56.2341862363114,Americas
+420,SWKS.OQ,Technology,57.6105411195425,Americas
+421,ABNB.OQ,Technology,30.2706586512031,Americas
+422,EL.N,Consumer Non-Cyclicals,45.4784529255072,Americas
+423,TSLA.OQ,Consumer Cyclicals,36.6089220185235,Americas
+424,EXR.N,Real Estate,63.0773539189361,Americas
+425,SPGI.N,Industrials,81.1666878205777,Americas
+426,KKR.N,Financials,40.4493028707759,Americas
+427,ADBE.OQ,Technology,41.4831617092321,Americas
+428,ADSK.OQ,Technology,55.8302439173907,Americas
+429,FOXA.OQ,Consumer Cyclicals,34.2877749375499,Americas
+430,TT.N,Industrials,78.9759851778221,Europe
+431,TSN.N,Consumer Non-Cyclicals,35.3735608037691,Americas
+432,AKAM.OQ,Technology,70.4763246694152,Americas
+433,LUV.N,Industrials,41.2030445988238,Americas
+434,INVH.N,Real Estate,51.3310356584614,Americas
+435,TSCO.OQ,Consumer Cyclicals,51.1525761241401,Americas
+436,AON.N,Financials,59.5661605087063,Europe
+437,AMZN.OQ,Consumer Cyclicals,40.7097898584117,Americas
+438,MS.N,Financials,40.0597780054585,Americas
+439,BRKb.N,Consumer Non-Cyclicals,23.3335808535867,Americas
+440,GOOG.OQ,Technology,40.856670522788,Americas
+441,KR.N,Consumer Non-Cyclicals,41.6143677953279,Americas
+442,BKNG.OQ,Consumer Cyclicals,37.2469234151176,Americas
+443,STZ.N,Consumer Non-Cyclicals,36.8353520542923,Americas
+444,WBD.OQ,Consumer Cyclicals,34.2461110400033,Americas
+445,ABBV.N,Healthcare,41.2023241518207,Americas
+446,STLD.OQ,Basic Materials,58.9634304614276,Americas
+447,MA.N,Technology,38.0830388426978,Americas
+448,XOM.N,Energy,35.4883536775129,Americas
+449,SWK.N,Industrials,37.1113502265257,Americas
+450,FICO.N,Technology,44.0328432475797,Americas
+451,HRL.N,Consumer Non-Cyclicals,48.7117039922683,Americas
+452,INTC.OQ,Technology,47.5999769203534,Americas
+453,TRMB.OQ,Technology,56.6115603921007,Americas
+454,WBA.OQ,Consumer Non-Cyclicals,50.7944546606241,Americas
+455,OMC.N,Consumer Cyclicals,69.4660581408639,Americas
+456,GLW.N,Technology,48.9794668086429,Americas
+457,CRM.N,Technology,58.1167332264048,Americas
+458,SBUX.OQ,Consumer Cyclicals,37.2968997447937,Americas
+459,ATO.N,Utilities,34.0876119854802,Americas
+460,ETR.N,Utilities,50.6193930598374,Americas
+461,HAL.N,Energy,50.8110215230001,Americas
+462,TFC.N,Financials,47.9614524047359,Americas
+463,TAP.N,Consumer Non-Cyclicals,38.8261615325567,Americas
+464,ABT.N,Healthcare,46.0287007316829,Americas
+465,V.N,Technology,35.0273290366194,Americas
+466,YUM.N,Consumer Cyclicals,48.8096741861864,Americas
+467,LYV.N,Consumer Cyclicals,21.6001229503547,Americas
+468,CPB.OQ,Consumer Non-Cyclicals,48.4498125806752,Americas
+469,JNPR.N,Technology,70.2788322002307,Americas
+470,EG.N,Financials,52.969593890229,Americas
+471,FTNT.OQ,Technology,55.7044289829502,Americas
+472,DTE.N,Utilities,70.5382737707021,Americas
+473,HST.OQ,Real Estate,84.9963406501324,Americas
+474,IRM.N,Real Estate,72.0561512932578,Americas
+475,DOC.N,Real Estate,82.4830394473997,Americas
+476,FIS.N,Technology,31.0947550092522,Americas
+477,DAL.N,Industrials,35.8490583351793,Americas
+478,ROK.N,Industrials,62.0856452106376,Americas
+479,DOW.N,Basic Materials,60.5198337704564,Americas
+480,PPL.N,Utilities,62.7795402127263,Americas
+481,NTRS.OQ,Financials,72.246871759068,Americas
+482,ETN.N,Industrials,53.0478007208951,Europe
+483,CVX.N,Energy,36.4954712706315,Americas
+484,CI.N,Healthcare,50.5338221350447,Americas
+485,ACN.N,Technology,81.6029324354451,Europe
+486,CRWD.OQ,Technology,24.8445630809936,Americas
+487,PANW.OQ,Technology,28.0604573922253,Americas
+488,XYL.N,Industrials,82.2408404217419,Americas
+489,HAS.OQ,Consumer Cyclicals,54.743555415974,Americas
+490,ENPH.OQ,Energy,39.2267872836893,Americas
+491,SO.N,Utilities,64.2973270093927,Americas
+492,CTLT.N,Healthcare,40.3809884032541,Americas
+493,EQT.N,Energy,40.8778050064778,Americas
+494,NRG.N,Utilities,54.5182458644958,Americas
+495,MKTX.OQ,Financials,60.2266134132309,Americas
+496,LMT.N,Industrials,56.4391752835401,Americas
+497,DLR.N,Real Estate,66.7260103132125,Americas
+498,PSX.N,Energy,44.6635771226965,Americas
+499,SCHW.N,Financials,48.1994235753557,Americas
+500,SNPS.OQ,Technology,60.6718434878219,Americas
+501,J.N,Industrials,62.1193106745813,Americas
+502,AVY.N,Basic Materials,74.1375875170287,Americas
